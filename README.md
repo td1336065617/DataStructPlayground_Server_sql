@@ -1,4 +1,4 @@
-测评机项目：**https://github.com/td1336065617/DataStructPlayground_Server**
+服务器程序项目（web项目在服务器程序的web_code目录下）：**https://github.com/td1336065617/DataStructPlayground_Server**
 
 测评机项目：**https://github.com/td1336065617/judging**
 
